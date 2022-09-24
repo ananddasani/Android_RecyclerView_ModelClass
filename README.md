@@ -214,7 +214,8 @@ initRecyclerView();
 ```
 
 # App Highlight
-![Contact UI App](https://user-images.githubusercontent.com/74413402/192094715-810230e5-818e-41e8-b21c-ee4eb24038d9.png)
-![Contact UI Code](https://user-images.githubusercontent.com/74413402/192094718-57a153a8-d8ea-4605-9453-ce26e692fd2c.png)
 
+![Recycler View Custom Adapter Code](https://user-images.githubusercontent.com/74413402/192095460-cac82e7b-fe00-484f-bf22-987b350d69df.png)
+![RecyclerView ModelClass App](https://user-images.githubusercontent.com/74413402/192095463-754857d4-33e5-46b5-8643-871cf09337a6.png)
+![RecyclerView ModelClass Code](https://user-images.githubusercontent.com/74413402/192095467-fe14dc83-94d8-4966-aaa9-c7e9944dc710.png)
 
