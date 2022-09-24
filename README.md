@@ -1,6 +1,8 @@
 # Android_RecyclerView_ModelClass
 Getting Data in RecyclerView From Model Class and showing on to the UI
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 **1. Make a Model Class**
@@ -212,7 +214,7 @@ initRecyclerView();
 ```
 
 # App Highlight
+![Contact UI App](https://user-images.githubusercontent.com/74413402/192094715-810230e5-818e-41e8-b21c-ee4eb24038d9.png)
+![Contact UI Code](https://user-images.githubusercontent.com/74413402/192094718-57a153a8-d8ea-4605-9453-ce26e692fd2c.png)
 
-<img src="app_images/RecyclerView ModelClass Code.png" width="1000" /><br>
 
-<img src="app_images/RecyclerView ModelClass App.png" width="300" />
